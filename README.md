@@ -1,2 +1,2 @@
-birinci komut!
-
+birinci commit!
+ikinci commit!
