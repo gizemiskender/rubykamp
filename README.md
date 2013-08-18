@@ -1,2 +1,2 @@
-birinci commit!
-ikinci commit!
+1- birinci commit!
+2- ikinci commit!
